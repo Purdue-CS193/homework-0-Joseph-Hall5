@@ -1,8 +1,8 @@
 # Joseph Hall's First CS193 Homework
 Favorite Things about CS193
-- CS 193 has no quizzes or exams to stress about
-- The lecturers are easy to understand
-- The material sounds like its going to be useful in the future. 
+* CS 193 has no quizzes or exams to stress about
+* The lecturers are easy to understand
+* The material sounds like its going to be useful in the future. 
 
 ## Welcome to GitHub Pages
 
